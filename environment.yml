@@ -1,0 +1,6 @@
+name: pyml
+dependencies:
+- python=3
+- jupyter
+- matplotlib
+- pandas
