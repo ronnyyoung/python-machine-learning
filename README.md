@@ -4,9 +4,9 @@ learning deep learning with python
 
 ## Python Notes
 
- - [Introduction]()
- - [Basic IO]()
- - [Data Types]()
+ - [Introduction](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/introduction.ipynb)
+ - [Basic IO](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/basic_io.ipynb)
+ - [Data Types](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/data_types.ipynb)
 
 ## Machine Learning Notes
 
