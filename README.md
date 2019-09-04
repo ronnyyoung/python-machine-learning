@@ -1,6 +1,12 @@
 # python-machine-learning
+
 learning deep learning with python
 
+## Python Notes
+
+ - [Introduction]()
+ - [Basic IO]()
+ - [Data Types]()
 
 ## Machine Learning Notes
 
