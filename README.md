@@ -6,12 +6,8 @@ learning deep learning with python
 
  - [Introduction](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/introduction.ipynb)
  - [Basic IO](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/basic_io.ipynb)
- - [Data Types](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/data_types.ipynb)
- - [String codec](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/str_code.ipynb)
- - [List](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/list.ipynb)
- - [Tuple](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/tuple.ipynb)
- - [Dict](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/dict.ipynb)
- - [Set](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/set.ipynb)
+ - [Data Types](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/data_types.ipynb), [String codec](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/str_code.ipynb)
+ - [List](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/list.ipynb), [Tuple](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/tuple.ipynb), [Dict](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/dict.ipynb), [Set](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/set.ipynb)
 
 ## Machine Learning Notes
 
