@@ -11,7 +11,9 @@ learning deep learning with python
  - [Flow of Control](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/control_flow.ipynb)
  - [Functions](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/functions.ipynb)
  - [Generator and Iterator](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/generator_iterator.ipynb)
- - [Modules and Packages](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/modules_and_packages/ipynb)
+ - [Modules and Packages](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/modules_and_packages.ipynb)
+ - [Ojbect-oriented programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/oop.ipynb)
+ - [Advanced ojbect-oriented programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/advanced_oop.ipynb)
 
 ## Machine Learning Notes
 
