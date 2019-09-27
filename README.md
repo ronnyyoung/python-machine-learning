@@ -12,8 +12,11 @@ learning deep learning with python
  - [Functions](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/functions.ipynb)
  - [Generator and Iterator](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/generator_iterator.ipynb)
  - [Modules and Packages](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/modules_and_packages.ipynb)
- - [Ojbect-oriented programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/oop.ipynb)
- - [Advanced ojbect-oriented programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/advanced_oop.ipynb)
+ - [Object-oriented programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/oop.ipynb)
+ - [Advanced object-oriented programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/advanced_oop.ipynb)
+ - [Exception and error handling](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/exception_and_error.ipynb)
+ - [Debugging](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/debugging.ipynb)
+ - [Testing](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/testing.ipynb)
 
 ## Machine Learning Notes
 
