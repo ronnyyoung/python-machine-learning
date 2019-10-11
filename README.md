@@ -17,6 +17,11 @@ learning deep learning with python
  - [Exception and error handling](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/exception_and_error.ipynb)
  - [Debugging](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/debugging.ipynb)
  - [Testing](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/testing.ipynb)
+ - [FileIO、StringIO、BytesIO](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/io.ipynb)
+ - [OS call、files and directories operation](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/os.ipynb)
+ - [Serialization: pickle and json](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/serialization.ipynb)
+ - [Multi-Process and multi-thread Programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/process_and_thread.ipynb)
+ - [Regular expression](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/regular_expression.ipynb)
 
 ## Machine Learning Notes
 
