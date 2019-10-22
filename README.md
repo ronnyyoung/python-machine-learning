@@ -4,6 +4,8 @@ learning deep learning with python
 
 ## Python Notes
 
+### Basic usage ref
+
  - [Introduction](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/introduction.ipynb)
  - [Basic IO](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/basic_io.ipynb)
  - [Data Types](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/data_types.ipynb)
@@ -23,6 +25,15 @@ learning deep learning with python
  - [Serialization: pickle and json](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/serialization.ipynb)
  - [Multi-Process and multi-thread Programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/process_and_thread.ipynb)
  - [Regular expression](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/regular_expression.ipynb)
+ 
+ ### Libraries
+ 
+- [Datetime](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/datetime.ipynb)
+- [Collections](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/collections.ipynb)
+- [Base64](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/base64.ipynb)
+- [Struct](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/struct.ipynb)
+- [Hashlib](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/hashlib.ipynb)
+- [Itertools](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/itertools.ipynb)
 
 ## Machine Learning Notes
 
