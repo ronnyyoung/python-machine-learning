@@ -4,7 +4,7 @@ learning deep learning with python
 
 ## Python Notes
 
-### Basic usage ref
+### Basic usage reference
 
  - [Introduction](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/introduction.ipynb)
  - [Basic IO](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/basic_io.ipynb)
@@ -26,7 +26,7 @@ learning deep learning with python
  - [Multi-Process and multi-thread Programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/process_and_thread.ipynb)
  - [Regular expression](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/regular_expression.ipynb)
  
- ### Libraries
+### Built-in Libraries
  
 - [Datetime](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/datetime.ipynb)
 - [Collections](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/collections.ipynb)
@@ -34,6 +34,19 @@ learning deep learning with python
 - [Struct](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/struct.ipynb)
 - [Hashlib](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/hashlib.ipynb)
 - [Itertools](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/itertools.ipynb)
+- [Contextlib](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/contextlib.ipynb)
+- [Urllib](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/urllib.ipynb)
+- [XML](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/xml.ipynb)
+- [PsUtil](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/psutil.ipynb)
+- [Argparse](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/built-in-libs/argparse.ipynb)
+
+### 3rd-party Libraries
+
+- [Requests](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/3rdparty-libs/requests.ipynb)
+
+### Apps
+
+- [Network Programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/apps/network_programming.ipynb)
 
 ## Machine Learning Notes
 
