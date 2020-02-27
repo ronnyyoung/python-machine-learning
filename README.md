@@ -1,8 +1,17 @@
-# python-machine-learning
+# Python Machine Learning
 
-learning deep learning with python
+Learning machine learning with python.
 
 ## Python Notes
+
+### Reference
+
+- [Python包管理器：Conda](https://docs.conda.io/projects/conda/en/latest/index.html)
+- [Python开发环境：Jupyter](https://jupyter.org/documentation) 
+- [Python入门教程-廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400)
+- [Python官方Documentation](https://www.python.org/doc/)
+- [Python Cookbook 进阶书籍](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
+- [Fluent Python 进阶书籍](https://book.douban.com/subject/27028517/)
 
 ### Basic usage reference
 
@@ -47,13 +56,7 @@ learning deep learning with python
 - [Numpy](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/3rdparty-libs/numpy.ipynb)
 - [Pandas](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/3rdparty-libs/pandas.ipynb)
 
-### Apps
+### Applications & Practices
 
 - [Network Programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/apps/network_programming.ipynb)
-
-## Machine Learning Notes
-
-- [Introduction to machine learning](./machine-learning/introduction.ipynb)
-- [Regression](./machine-learning/regression.ipynb)
-- [Model Selection](./machine-learning/model_selection.ipynb)
-- [Gradient Descent](./machine-learning/effective_gradient_descent.ipynb)
+- [ ] 爬虫
