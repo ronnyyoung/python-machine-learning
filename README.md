@@ -55,8 +55,8 @@ Learning machine learning with python.
 - [Requests](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/3rdparty-libs/requests.ipynb)
 - [Numpy](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/3rdparty-libs/numpy.ipynb)
 - [Pandas](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/3rdparty-libs/pandas.ipynb)
+- [Matplotlib](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/3rdparty-libs/matplotlib.ipynb)
 
 ### Applications & Practices
 
 - [Network Programming](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/apps/network_programming.ipynb)
-- [ ] 爬虫

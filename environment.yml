@@ -1,6 +1,9 @@
 name: pyml
 dependencies:
 - python=3
-- jupyter
+- numpy
 - matplotlib
 - pandas
+- jupyter
+- jupyterlab
+- requests
