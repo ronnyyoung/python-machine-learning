@@ -13,9 +13,8 @@
 
 - 人工智能
   - Pytorch
-- 大数据处理
-  - Spark
-- 爬虫与数据分析及可视化
+- 大数据处理，数据清洗、爬虫与数据分析及可视化 - 这个方向可以做很多好玩的事情
+  - PySpark、Pandas
   - https://blog.csdn.net/Goldxwang/article/details/93990304
   - 秦路的微信公从号
   - 干货！python爬虫100个入门项目 续 - 朱卫军的文章 - 知乎 https://zhuanlan.zhihu.com/p/75036835
