@@ -24,6 +24,7 @@
 
 ## Basic usage reference
 
+ - [Develop Environment](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/basic/dev_environment.ipynb)
  - [Introduction](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/basic/introduction.ipynb)
  - [Basic IO](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/basic/basic_io.ipynb)
  - [Data Types](https://nbviewer.jupyter.org/github/ronnyyoung/python-machine-learning/blob/master/python/basic/data_types.ipynb)
